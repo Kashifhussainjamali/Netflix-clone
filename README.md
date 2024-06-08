@@ -1,6 +1,7 @@
 # Netflix-clone
 
-#Description:
+# Description:
+
 Here i have tryed to created the copy of Nerflix website with my forntend slils with the help of HTML & CSS
 the result in showen in video bellow and the code is also uploaded.
 
